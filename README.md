@@ -1,2 +1,2 @@
-# HTML
-Learning HMTL Oct 2025
+# WEB2 (HTML, CSS, JAVASCRIPT)
+Learning WEB2 full stack development via freecodecamp 
